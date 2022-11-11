@@ -7,4 +7,5 @@ This repository consists of the code as well as the project report regarding cri
   - 8 unfrozen layers
 - LRCN
 - convLSTM
+
 it further includes code for deploying using streamlit
